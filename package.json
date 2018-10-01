@@ -1,0 +1,54 @@
+{
+  "homepage": "https://github.com/EdocGroup/helm-i18n",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/EdocGroup/helm-i18n"
+  },
+  "author": {
+    "name": "ca77y",
+    "url": "https://github.com/ca77y"
+  },
+  "contributors": [
+    {
+      "name": "ca77y",
+      "url": "https://github.com/ca77y"
+    },
+    {
+      "name": "Pablo Tamarit",
+      "url": "https://github.com/ptamarit"
+    },
+    {
+      "name": "Wolfgang Kölbl",
+      "url": "https://github.com/wok"
+    },
+    {
+      "name": "Joe Dytrych",
+      "url": "https://github.com/SomeHats"
+    },
+    {
+      "name": "Gregor Raýman",
+      "url": "https://github.com/gregor-rayman"
+    },
+    {
+      "name": "Justin Richard @ EdocGroup",
+      "url": "https://github.com/EdocGroup"
+    }
+  ],
+  "dependencies": {
+    "properties-reader": "0.0.6"
+  },
+  "description": "Helm customized internationalization and translation of templates.",
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "main": "tasks/i18n.js",
+  "name": "helm-i18n",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "readme": "# helm-i18n \r\nForked from https://www.npmjs.com/package/grunt-i18n\r\n> Internationalization support for grunt.",
+  "readmefile": "README.md",
+  "version": "0.7.1"
+}

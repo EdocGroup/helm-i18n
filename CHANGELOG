@@ -1,0 +1,35 @@
+v0.7.1:
+  date: 2018-09-28
+  changes:
+    - Removed dependencies and simplified logic to be specific to project and avoid stack overflow
+v0.7.0:
+  date: 2014-11-11
+  changes:
+    - Add properties parser.
+    - Add custom parsers.
+v0.6.0:
+  date: 2013-12-31
+  changes:
+    - Add Transifex format for locales.
+v0.5.0:
+  date: 2013-12-06
+  changes:
+    - Can read locals in yaml format.
+v0.4.0:
+  date: 2013-11-29
+  changes:
+    - Add custom delimiters.
+    - Add localization file existence checks.
+v0.3.0:
+  date: 2013-10-23
+  changes:
+    - Fix for separator in output path.
+    - Add logging messages.
+v0.2.0:
+  date: 2013-10-22
+  changes:
+    - Might be useful for others.
+v0.1.0:
+  date: 2013-04-30
+  changes:
+    - Work in progress, not yet officially released.
