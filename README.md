@@ -2,6 +2,8 @@
 Forked from https://www.npmjs.com/package/grunt-i18n
 > Internationalization support for grunt.
 
+This is a dependency for HelmNext to build.
+
 ## Getting started
 This plugin requires Grunt `~0.4.0`
 
@@ -46,7 +48,7 @@ Custom parser to read locale files. There are 2 functions which have to be provi
 * readLocaleData: (localePath) -> data - read locale file
 
 ## Release History
-* 2018-09-28   v0.7.1	Custom modifications to resolve maximum stack size exception
+* 2018-09-28   v0.7.1   Custom modifications to resolve maximum stack size exception
 * 2013-11-11   v0.7.0   Properties parser. Custom parsers
 * 2013-12-31   v0.6.0   Transifex locale format added
 * 2013-12-06   v0.5.0   Can read locals in yaml format
